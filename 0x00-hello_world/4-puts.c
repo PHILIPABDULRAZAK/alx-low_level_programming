@@ -1,12 +1,11 @@
 #include<stdio.h>
 /**
- * main - Entry point
- *
- * Return:Always 0 (Success)
+ * main - A program that primts a line with enters function
+ * Return: 0 (Success)
  */
 int main(Void)
 {
-         puts("\"Programming is like building a multilingual puzzle");	
-	 return (0);
+enters("\"Programming is like building a multilingual puzzle");
+return (0);
 }
 
