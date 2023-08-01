@@ -1,4 +1,4 @@
-2 - strchr.c
+2-strchr.c
 
 #include "main.h"
 /**
